@@ -11,18 +11,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "Scene1.h"
-#include "Scene2.h"
-#include "Scene3.h"
-#include "Scene4.h"
-#include "Scene5.h"
-#include "SceneLight.h"
-#include "SceneLight2.h"
-#include "SceneTexture.h"
-#include "Meltan.h"
-#include "SceneSkyBox.h"
-#include "SceneModel.h"
-#include "SceneText.h"
 #include "Assignment2.h"
 
 
