@@ -290,20 +290,6 @@ void Assignment2::Update(double dt)
 		bRButtonState = false;
 		std::cout << "RBUTTON UP" << std::endl;
 	}
-	for (int i = 0; i < 8; i++)
-	{
-		if (EnemyArray[i]->EnemyHp <= 0)
-		{
-			EnemyArray[i]->Alive = false;
-		}
-		if (EnemyArray[i]->Alive == false)
-		{
-			for (int e = 0; e < 8; e++)
-			{
-				ItemHitbox(26, 40, 26, EnemyArray[e]->EnemyPos.x, EnemyArray[e]->EnemyPos.y, EnemyArray[e]->EnemyPos.z, 1, e);
-			}
-		}
-	}
 	
 	//
 	
