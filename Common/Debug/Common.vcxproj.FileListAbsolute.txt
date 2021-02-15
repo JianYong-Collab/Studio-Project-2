@@ -1,2 +1,4 @@
 C:\Users\Teoke\Source\Repos\DM2122\Debug\Common.pdb
 C:\Users\Teoke\Source\Repos\DM2122\Common\Debug\Common.pdb
+D:\Documents\Github Projects\SP2\Debug\Common.pdb
+D:\Documents\Github Projects\SP2\Common\Debug\Common.pdb

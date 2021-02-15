@@ -1,177 +1,105 @@
-﻿  Application.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Scene3.h(24,15): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.h(71,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+﻿  Mtx44.cpp
+  Application.cpp
   Assignment2.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(40,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(46,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(51,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(56,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(61,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Assignment2.cpp(319,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Enemy.h(63,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Enemy.h(65,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Enemy.h(70,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Bullet.h(23,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Bullet.h(24,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Bullet.h(25,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(248,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(264,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(265,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(528,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(528,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(530,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Assignment2.cpp(530,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Camera.cpp
+D:\Documents\Github Projects\SP2\Application\Source\Camera.cpp(62,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera.cpp(66,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera.cpp(70,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera.cpp(74,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Camera2.cpp
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(75,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(85,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(97,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(109,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(116,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera2.cpp(121,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Camera3.cpp
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(149,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(150,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(154,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(155,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(163,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(164,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(168,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\Camera3.cpp(169,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   LoadOBJ.cpp
-  Meltan.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.h(71,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(39,84): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(45,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(50,82): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(56,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(63,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(69,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(75,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(80,92): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(87,82): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(93,86): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(113,95): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(131,91): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(425,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(447,16): warning C4305: '=': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(514,6): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(558,17): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(568,21): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(579,16): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(592,31): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(653,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(671,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(817,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(984,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1092,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1178,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1180,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1187,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1192,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1194,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1199,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1203,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1217,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1219,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1226,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1231,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1233,32): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1238,33): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Meltan.cpp(1242,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  LoadTGA.cpp
+  main.cpp
   Mesh.cpp
   MeshBuilder.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(203,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(203,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(203,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(205,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(205,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(205,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(208,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(208,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(208,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(210,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(210,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(210,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(241,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(241,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(241,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(243,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(243,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(243,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(246,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(246,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(246,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(248,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(248,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(248,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(277,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(278,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(319,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(319,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(320,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(320,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(349,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(350,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(427,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(433,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(450,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(455,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(460,28): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(467,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(473,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(507,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(513,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(513,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(513,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(530,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(530,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(530,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(535,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(539,28): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(546,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(552,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(586,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(586,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(587,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(587,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(595,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(595,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(595,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\MeshBuilder.cpp(595,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  Scene4.cpp
-  Scene5.cpp
-  SceneLight.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight.cpp(33,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight.cpp(39,91): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight.cpp(44,88): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight.cpp(49,88): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight.cpp(54,89): warning C4305: 'argument': truncation from 'double' to 'float'
-  SceneLight2.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight2.cpp(33,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight2.cpp(39,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight2.cpp(44,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight2.cpp(49,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneLight2.cpp(54,89): warning C4305: 'argument': truncation from 'double' to 'float'
-  SceneModel.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneModel.cpp(39,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneModel.cpp(45,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneModel.cpp(50,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneModel.cpp(55,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneModel.cpp(60,89): warning C4305: 'argument': truncation from 'double' to 'float'
-  SceneSkyBox.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneSkyBox.cpp(39,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneSkyBox.cpp(45,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneSkyBox.cpp(50,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneSkyBox.cpp(55,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneSkyBox.cpp(60,89): warning C4305: 'argument': truncation from 'double' to 'float'
-  SceneText.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(40,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(46,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(51,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(56,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(61,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneText.cpp(319,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  SceneTexture.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneTexture.cpp(39,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneTexture.cpp(45,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneTexture.cpp(50,89): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneTexture.cpp(55,87): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneTexture.cpp(60,89): warning C4305: 'argument': truncation from 'double' to 'float'
-  SceneUI.cpp
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Enemy.h(63,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Enemy.h(65,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Enemy.h(70,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Bullet.h(23,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Bullet.h(24,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\Bullet.h(25,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(48,82): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(53,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(58,95): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(63,90): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(68,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(73,85): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(79,84): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(364,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(380,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(381,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(423,13): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(424,18): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(435,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(785,34): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(1092,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(1092,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(1094,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Teoke\source\repos\DM2122\Application\Source\SceneUI.cpp(1094,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(203,84): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(203,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(203,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(205,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(205,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(205,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(208,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(208,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(208,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(210,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(210,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(210,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(241,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(241,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(241,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(243,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(243,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(243,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(246,101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(246,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(246,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(248,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(248,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(248,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(277,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(278,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(319,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(319,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(320,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(320,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(349,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(350,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(427,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(433,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(450,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(455,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(460,28): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(467,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(473,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(507,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(513,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(513,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(513,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(530,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(530,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(530,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(535,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(539,28): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(546,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(552,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(586,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(586,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(587,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(587,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(595,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(595,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(595,162): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Github Projects\SP2\Application\Source\MeshBuilder.cpp(595,115): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  Utility.cpp
   Generating Code...
-  Application.vcxproj -> C:\Users\Teoke\Source\Repos\DM2122\Debug\Application.exe
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Application.vcxproj -> D:\Documents\Github Projects\SP2\Debug\Application.exe
